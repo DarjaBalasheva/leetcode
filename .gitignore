@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+
+back/.DS_Store
+back/data/__pycache__/
+
+back/service/__pycache__/
+back/service/.DS_Store
+
+back/model/__pycache__/
+back/model/.DS_Store
+
+style/__pycache__/
+
+tax.csv
