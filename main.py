@@ -10,7 +10,6 @@ from back.model.calc_model import Calculator
 #             result[i] = 1
 #
 
-
 # Запуск калькулятора
 if __name__ == "__main__":
     # x = lambda a: a + 10
